@@ -1,0 +1,44 @@
+{
+    "menu": {
+        "item2": "About me",
+        "item3": "Skills",
+        "item4": "Training",
+        "item5": "Projects",
+        "item6": "Contact"
+    },
+
+    "home": {
+        "home_text-1": "Hi! I'm",
+        "home_text-3": "Systems engineer",
+        "parrafo-info": "Student graduated from Alvart University focused on the development of web and desktop applications. As a person who loves complexity, I specialize in the backend area since I have adapted to that environment and the large volume of functions.",
+        "cv_button": "Download CV",
+        "contact_button": "Contact"
+    },
+
+    "sobre-mi": {
+        "title": "About me",
+        "texto_sobreMi": "I am a computer systems engineer graduated from Alvart University and a self-taught student of Web Development focused on backend programming, with extensive knowledge of preventive and corrective maintenance, experience in CCTV installation and structured cabling.<br><br>I aspire to get a job in the world of Web Development or gain experience, continue increasing my value as technical support and technician in CCTV installation, new knowledge and strengthen my professional life.<br><br>I am an empathetic and enthusiastic person, with skills focused on teamwork, assertive communication, problem solving, responsible and proactive, I like to learn from others and continually improve myself."
+    },
+
+    "habilidades": {
+        "title": "Skills"
+    },
+
+    "formacion": {
+        "title": "Training",
+        "formacion1": "Systems engineering",
+        "tiempo-formacion1": "2020 - 2024",
+        "formacion2": "Full-Stack Developer",
+        "tiempo-formacion2": "2024 - In progress"
+    },
+
+    "proyectos": {
+        "title": "Projects",
+        "title-proyecto1": "CCTV installation technician",
+        "info-proyecto1": "It was a relevant experience on my resume, where I worked as a freelancer installing cameras, gutters, structured cabling, and assembling nodes. I configured the DVR to connect the video surveillance to the client's cell phone via P2P; This was my most robust project, carried out for a hotel.",
+        "title-proyecto2": "Portfolio",
+        "info-proyecto2": "My personal web portfolio, where you can find some of my projects, technical skills and a little about my information"
+    }
+
+   
+}

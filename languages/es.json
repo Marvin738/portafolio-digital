@@ -1,0 +1,43 @@
+{
+    "menu": {
+        "item2": "Sobre mí",
+        "item3": "Habilidades",
+        "item4": "Formación",
+        "item5": "Proyectos",
+        "item6": "Contacto"
+    },
+
+    "home": {
+        "home_text-1": "Hola! Soy",
+        "home_text-3": "Ingeniero en sistemas",
+        "parrafo-info": "Estudiante egresado de Universidad alvart enfocado en el desarrollo de aplicaciones de escritorio y web, como persona amante de lo complejo me especializo en el area de backend ya que me he adaptado a ese entorno y al gran volumen de funciones.",
+        "cv_button": "Descargar CV",
+        "contact_button": "Contacto"
+    },
+
+    "sobre-mi": {
+        "title": "Sobre mí",
+        "texto_sobreMi": "Soy un Ingeniero en sistemas computaciones egresado de Universidad alvart y estudiante autodidacta de Desarrollo Web enfocado en programación backend, Con amplios conocimientos de mantenimiento preventivo y correctivo, experiencia en instalacion de cctv y cableado estructurado.<br><br>Aspiro conseguir empleo en el mundo del Desarrollo Web o bien adquirir experiencia, seguir aumentando mi valor como soporte tecnico y tecnico en instalacion de cctv, nuevos conocimientos y fortalecer mi vida profesional.<br><br>Soy una persona empática y entusiasta, con competencias enfocadas en el trabajo en equipo, comunicación asertiva, resolución de problemas, responsable y proactivo, me gusta aprender de los demás y superarme continuamente."
+    },
+
+    "habilidades": {
+        "title": "Habilidades"
+    },
+
+    "formacion": {
+        "title": "Formación",
+        "formacion1": "Ingenieria en sistemas",
+        "tiempo-formacion1": "2020 - 2024",
+        "formacion2": "Desarrolladora Full-Stack",
+        "tiempo-formacion2": "2024 - En curso"
+    },
+
+    "proyectos": {
+        "title": "Proyectos",
+        "title-proyecto1": "Tecnico en instalacion cctv",
+        "info-proyecto1": "Fue una experiencia relevante en mi currículum, donde trabajé como freelance en la instalación de cámaras, canaletas, cableado estructurado y armado de nodos. Configuré el DVR para conectar la videovigilancia al celular del cliente mediante P2P; este fue mi proyecto más robusto, realizado para un hotel.",
+        "title-proyecto2": "Portafolio",
+        "info-proyecto2": "Mi portafolio web personal, donde se encuentran algunos de mis proyectos, habilidaes tecnicas y un poco sobre mi informacion"
+    }
+
+}
